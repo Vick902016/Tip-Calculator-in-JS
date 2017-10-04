@@ -35,6 +35,7 @@ function calculateTip() {
 	document.getElementById("tip").innerHTML = total;
 	
 	
+	
 }
 
 
